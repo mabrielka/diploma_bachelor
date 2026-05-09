@@ -1,0 +1,13 @@
+Dataset,log10(N),log10(IR),d,G,¯deg,CC
+Credit Card Fraud,5.45,2.76,30,0,—,—
+IEEE-CIS,5.77,1.44,393,0,—,—
+PaySim,6.8,2.89,10,0,—,—
+AIZBank,4.66,0.88,16,0,—,—
+Elliptic (Bitcoin),4.67,-0.97,167,1,2.3,0.0138
+Amazon Reviews,4.08,1.13,25,1,174.78,0.6607
+Yelp Reviews,4.66,0.77,32,1,4.14,0.6579
+Click Fraud,5.0,2.64,7,0,—,—
+Social Honeypot,4.62,-0.06,6,0,—,—
+MGTAB,4.01,0.43,788,1,179.06,0.2215
+Cresci-2017,3.79,0.12,21,0,—,—
+Midterm-2018,4.7,-0.72,19,0,—,—
